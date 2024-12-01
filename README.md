@@ -1,33 +1,41 @@
-# 📋 e-Notulen
+# 📋 e-Notulen Berbasis Web
 Saya membuat e-Notulen sebagai pencatatan notulen rapat berbasis web yang membantu meningkatkan efisiensi pengelolaan dan pencatatan hasil rapat secara digital di satuan pendidikan.
 
-# 🎨 Teknologi yang Digunakan
-Frontend: React.js | UI Framework: TailwindCSS
+## 🎨 Teknologi yang Digunakan
+- **Frontend:**
+  - React.js: Library JavaScript untuk membangun antarmuka pengguna (UI) yang interaktif.
+  - TailwindCSS: Framework CSS utility-first untuk desain yang responsif dan cepat.
+  - React Quill: Rich text editor untuk aplikasi React, memungkinkan pengguna untuk menulis teks dengan format yang efisien.
 
-# ✨ Fitur Utama
-1. Halaman Login
+## ✨ Fitur Utama
+- Halaman Login
 Autentikasi pengguna dengan nama pengguna dan kata sandi.
-2. Dashboard
+- Dashboard
 Menampilkan data notulen secara ringkas dan terorganisasi.
-3. Profil
+- Profil
 Pengguna dapat mengedit informasi pribadi, termasuk nama, email, dan avatar.
-4. Form Notulen
+- Form Notulen
 Memudahkan pengguna dalam mencatat hasil rapat secara langsung.
-5. Daftar Notulen
+- Daftar Notulen
 Menyediakan daftar seluruh notulen yang telah dibuat untuk memudahkan pengelolaan.
-6. Cetak Notulen
+- Cetak Notulen
 Notulen dapat diunduh atau dicetak dalam format PDF untuk kebutuhan dokumentasi.
 
+## 📸 Tangkapan Layar
+* Halaman Depan
+![landing](img/landing.png)
 
-# 📸 Tangkapan Layar
-1️⃣ Halaman Login
+* Dashboard
+![dashboard](img/dashboard.png)
 
-2️⃣ Dashboard
+* Profil Pengguna
+![profil](img/profil.png)
 
-3️⃣ Profil Pengguna
+* Form Notulen
+![form](img/form.png)
 
-4️⃣ Form Notulen
+* Daftar Notulen
+![notulen](img/notulen.png)
 
-5️⃣ Daftar Notulen
-
-6️⃣ Cetak Notulen
+* Cetak Notulen
+![cetak](img/cetak.png)
